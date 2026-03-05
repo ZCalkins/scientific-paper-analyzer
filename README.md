@@ -1,4 +1,4 @@
-# 🔬 scientific-paper-analyzer
+# 🔬 Scientific Paper Analyzer
 Multi-agent AI system for scientific paper summarization and cross-paper analysis using AWS Bedrock, RAG, and FAISS.
 
 A multi-agent AI system that summarizes scientific papers, extracts key findings, and enables comparative analysis across multiple papers using Retrieval-Augmented Generation (RAG).
